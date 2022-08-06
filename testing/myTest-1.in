@@ -1,0 +1,16 @@
+#* java -ea ataxx.Main
+# testing if jumps work properly.
+seed 18465
+block b2
+block a2
+block b1
+block a4
+block b4
+block c4
+block d1
+block d2
+block d3
+dump
+auto red
+#*move/win
+quit
